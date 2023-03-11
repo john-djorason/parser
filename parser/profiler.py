@@ -24,5 +24,3 @@ def profile(fnc):
         return res
 
     return inner
-
-
